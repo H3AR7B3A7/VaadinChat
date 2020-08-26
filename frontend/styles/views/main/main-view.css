@@ -7,3 +7,18 @@
   display: block;
   padding: var(--lumo-space-m) var(--lumo-space-l);
 }
+
+.main-view h1 {
+  width: 100%;
+  margin: 0;
+  padding: 16px;
+}
+
+.message-list {
+  overflow-y: scroll;
+  width: 100%;
+}
+
+.message-list p{
+  width: 100%;
+}
