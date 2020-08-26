@@ -1,13 +1,3 @@
-#hello-world-view {
-  display: block;
-  padding: var(--lumo-space-m) var(--lumo-space-l);
-}
-
-:host {
-  display: block;
-  padding: var(--lumo-space-m) var(--lumo-space-l);
-}
-
 .main-view h1 {
   width: 100%;
   margin: 0;
